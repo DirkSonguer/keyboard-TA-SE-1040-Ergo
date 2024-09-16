@@ -33,4 +33,8 @@ TA PCBs are usually dark green with a uniform and clean component assembly. The 
 Shown below: The Ergo study PCB on top, below from a regular SE 1041.
 ![Triumph-Adler PCB](https://github.com/DirkSonguer/keyboard-TA-SE-1040-Ergo/blob/main/images/TA-SE-1040-Ergo-pcb.jpg "Triumph-Adler PCB")
 
-Also note that the ergo study does feature a product ID: 130651, edition 0. The SE 1040 has the ID 130533, with editions 1 to 8.
+Also note that the ergo study features a product ID: B130651, edition 0, compared to the SE 1040 series with ID B130533, and editions 1 to 8.
+
+The bottom half of the PCB is similar, connecting the switches to the board. However, the upper half of the PCB is completely different. The SE 1040 series is dominated by the VFD and its 12 Texas Instruments UCN4810A display driver chips. In the  ergo study, the LCD display is located on a daughter board, raised above the actual PCB and connected with a soldered ribbon cable. The driver chips for the display are located below the daughter board and are labelled with little handwritten notes and dates.
+
+![Triumph-Adler Display](https://github.com/DirkSonguer/keyboard-TA-SE-1040-Ergo/blob/main/images/TA-SE-1040-Ergo-display.jpg "Triumph-Adler Display")
