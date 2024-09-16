@@ -24,7 +24,13 @@ Opening the case immediately confirms that this is a prototype board. While the 
 
 Looking at the plate, the biggest difference between the ergo study and a regular SE 104x keyboard unit is the change in display. While the regular SE 104x series used a [Vacuum Fluorescent Display](https://en.wikipedia.org/wiki/Vacuum_fluorescent_display) (VFD), the ergo study uses an LCD. This is not unheard of, as the [SE 1035/C](https://www.provinz.bz.it/katalog-kulturgueter/de/suche.asp?kks_priref=150008271) (released in 1985) also used an LCD in a keyboard unit very similar to this. Notably, it had the brightness dial on the right side of the display, instead of the left.
 
-Shown below: the Ergo study on top, below a regular 1041.
-
+Shown below: The Ergo study on top, below a regular SE 1041.
 ![Triumph-Adler Plate Comparison](https://github.com/DirkSonguer/keyboard-TA-SE-1040-Ergo/blob/main/images/TA-SE-1040-Ergo-plate-comparison.jpg "Triumph-Adler Plate Comparison")
 
+## Looking deeper
+TA PCBs are usually dark green with a uniform and clean component assembly. The ergo study however features a light green transparent PCB - as used in prototypes to better see the layers and connections. The components also look very much hand soldered, with hand written notes everywhere.
+
+Shown below: The Ergo study PCB on top, below from a regular SE 1041.
+![Triumph-Adler PCB](https://github.com/DirkSonguer/keyboard-TA-SE-1040-Ergo/blob/main/images/TA-SE-1040-Ergo-pcb.jpg "Triumph-Adler PCB")
+
+Also note that the ergo study does feature a product ID: 130651, edition 0. The SE 1040 has the ID 130533, with editions 1 to 8.
