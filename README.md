@@ -1,9 +1,9 @@
 # Triumph-Adler SE 1040 Ergo Study
-This repo documents the Triumph-Adler 1040 Ergo Study keyboard. Personally, I have been a fan of Triumph-Adler keyboards for quite some time, especially the [TA 1040 series of keyboard computers](https://github.com/DirkSonguer/keyboard-TA-SE-1040). In 2023, I came across a weird version that I couldn't identify - the "Ergonomiestudie".
+This repo documents the Triumph-Adler 1040 Ergo Study keyboard. Personally, I have been a fan of Triumph-Adler keyboards for quite some time, especially the [TA 1040 series of keyboard computers](https://github.com/DirkSonguer/keyboard-TA-SE-1040). In 2023, I came across a weird version that I couldn't identify - the "Ergonomie-Studie".
 
 ![TA SE 1040 Ergo Front View](https://github.com/DirkSonguer/keyboard-TA-SE-1040-Ergo/blob/main/images/TA-SE-1040-Ergo-front.jpg "TA SE 1040 Ergo Front View")
 
-I was able to obtain the keyboard from the estate of Gernot Haltenorth, a previous technical writer for Triumph-Adler. Haltenorth rescued the "Ergonomiestudie" ("Ergo Study") prototype board when the company closed its development and production facilities around 1993, as any unfinished or unsellable inventory was about to be destroyed. In fact, besides many regular Triumph-Adler typewriters and computers, the collection did contain many prototypes based around existing boards.
+I was able to obtain the keyboard from the estate of Gernot Haltenorth, a previous technical writer for Triumph-Adler. Haltenorth rescued the "Ergonomie-Studie" ("Ergonomic Study") prototype board when the company closed its development and production facilities around 1993, as any unfinished or unsellable inventory was about to be destroyed. In fact, besides many regular Triumph-Adler typewriters and computers, the collection did contain many prototypes based around existing boards.
 
 ![Triumph-Adler Collection & Prototypes](https://github.com/DirkSonguer/keyboard-TA-SE-1040-Ergo/blob/main/images/TA-SE-1040-Ergo-collection-prototypes.jpg "Triumph-Adler Collection & Prototypes")
 
