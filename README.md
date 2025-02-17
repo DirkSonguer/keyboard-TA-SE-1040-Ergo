@@ -18,9 +18,10 @@ It seems like the ergo study was specifically created for just that - scientific
 With this, my aim is to document the 1040 ergo study as detailed as possible for fans of Triumph-Adler boards, as well as ergo keyboard enthusiasts.
 
 ## A video review
-Keyboard YouTuber [Chyrosran22](https://www.youtube.com/@Chyrosran22) was kind enough to do a video review of the Ergo Study.
+Keyboard YouTuber [Chyrosran22](https://www.youtube.com/@Chyrosran22) was kind enough to do a video review of the Ergo Study:
 
-![Triumph-Adler SE 1040 & 1041 Ergo Study keyboard review](https://www.youtube.com/watch?v=t6ygjQnLy4s "Triumph-Adler SE 1040 & 1041 Ergo Study keyboard review (Cherry M9)")
+
+[![Triumph-Adler SE 1040 & 1041 Ergo Study keyboard review](https://img.youtube.com/vi/t6ygjQnLy4s/0.jpg)](https://www.youtube.com/watch?v=t6ygjQnLy4s)
 
 ## A quick look inside
 Opening the case immediately confirms that this is a prototype board. While the top was cleaned up and treated to look like a proper mold, the bottom reveals that the case was likely from a regular TA SE 1040, but with retrofitted cuts and additional material grafted onto it to create the shape for the split alpha keys.
